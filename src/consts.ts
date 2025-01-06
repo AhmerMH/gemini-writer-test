@@ -1,4 +1,4 @@
-export const API_KEY: string = 'AIzaSyBnyicy0HcBwtWYEsnbFbgbL4Yvnr43bKw';
+export const API_KEY: string = 'YOUR_API_KEY_HERE';
 
 export const PNG_TO_JSON_PROMPT = `I want to convert this png file to json format. The question should be question and not include asterisk. The blue background one is the main info and below that is question answers. I want it in this format
 {  
